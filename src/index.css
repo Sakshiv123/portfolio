@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+          background-color: #20242d;
+          font-family: 'Poppines', sans-serif;
+          font-weight: 800;
+}
+
+span,
+.primary-color {
+          background-image: linear-gradient(to right, rgba(204, 65, 146, 0.63), #ce90cb);
+          -webkit-background-clip: text;
+          color: transparent;
+}
+
+.bg-primary-color {
+          background-image: linear-gradient(to right, #6b2b72, #a5079d);
+}
+
+.swiper-pagination-bullet {
+          @apply bg-white;
+}
