@@ -1,12 +1,12 @@
 import React from "react";
 import hero from '../assets/hero.jpg'
 const Hero = () => {
-          const social_media = [
-                    "logo-instagram",
-                    "logo-facebook",
-                    "logo-linkedin",
-                    "logo-twitter",
-          ];
+          // const social_media = [
+          //           "logo-instagram",
+          //           "logo-facebook",
+          //           "logo-linkedin",
+          //           "logo-twitter",
+          // ];
           return (
                     <section
                               id="home"
@@ -29,7 +29,7 @@ const Hero = () => {
                                                   {/* <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
                                                             Fullstack Developer
                                                   </h4> */}
-                                                  <button className="btn-primary mt-8 text-white">Contact Me</button>
+{/*                                                   <button className="btn-primary mt-8 text-white">Contact Me</button>
                                                   <div className="mt-8 text-3xl flex items-center md:justify-start justify-center gap-5">
                                                             {social_media?.map((icon) => (
                                                                       <div
@@ -39,7 +39,7 @@ const Hero = () => {
                                                                                 <ion-icon name={icon}></ion-icon>
                                                                       </div>
                                                             ))}
-                                                  </div>
+                                                  </div> */}
                                         </div>
                               </div>
                     </section>
