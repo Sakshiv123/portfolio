@@ -10,15 +10,15 @@ const Project = () => {
           const projects = [
                     {
                               img: project1,
-                              name: "TripTrekCG",
-                              github_link: "https://github.com/Sakshiv123/TripTrekCG",
-                              live_link: "https://trip-trek-cg.vercel.app/",
-                    },
-                    {
-                              img: project2,
                               name: "VR Web",
                               github_link: "https://github.com/Sakshiv123/Virtual-reality-web",
                               live_link: "https://virtual-reality-web.vercel.app/",
+                    },
+                    {
+                              img: project2,
+                              name: "TripTrekCG",
+                              github_link: "https://github.com/Sakshiv123/TripTrekCG",
+                              live_link: "https://trip-trek-cg.vercel.app/",
                     },
                     {
                               img: project3,
