@@ -2,16 +2,6 @@ import React from "react";
 
 const Skills = () => {
           const skills = [
-                      {
-                              logo: "fa-java",
-                              level: "Expert",
-                              count: 80,
-                     },
-                    {
-                              logo: "logo-python",
-                              level: "Intermediate",
-                              count: 70,
-                      },
                     {
                               logo: "logo-html5",
                               level: "Advance",
@@ -32,11 +22,12 @@ const Skills = () => {
                               level: "Intermediate",
                               count: 70,
                     },
-                    {
-                              logo: "logo-laptop",
+                       {
+                              logo: "logo-python",
                               level: "Intermediate",
                               count: 70,
-                    },
+                      },
+                
           ];
           return (
                     <section id="skills" className="py-20 relative">
