@@ -2,6 +2,16 @@ import React from "react";
 
 const Skills = () => {
           const skills = [
+                      {
+                              logo: "logo-java",
+                              level: "Expert",
+                              count: 80,
+                     },
+                    {
+                              logo: "logo-python",
+                              level: "Intermediate",
+                              count: 70,
+                      },
                     {
                               logo: "logo-html5",
                               level: "Advance",
@@ -9,7 +19,7 @@ const Skills = () => {
                     },
                     {
                               logo: "logo-css3",
-                              level: "Expect",
+                              level: "Expert",
                               count: 80,
                     },
                     {
@@ -23,7 +33,7 @@ const Skills = () => {
                               count: 70,
                     },
                     {
-                              logo: "logo-machine-learning",
+                              logo: "logo-laptop",
                               level: "Intermediate",
                               count: 70,
                     },
