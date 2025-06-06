@@ -3,7 +3,7 @@ import React from "react";
 const Skills = () => {
           const skills = [
                       {
-                              logo: "logo-java",
+                              logo: "fa-java",
                               level: "Expert",
                               count: 80,
                      },
