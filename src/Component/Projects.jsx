@@ -10,7 +10,7 @@ const Project = () => {
           const projects = [
                     {
                               img: project1,
-                              name: "VR Web",
+                              name: "Virtual Reality Web",
                               github_link: "https://github.com/Sakshiv123/Virtual-reality-web",
                               live_link: "https://virtual-reality-web.vercel.app/",
                     },
