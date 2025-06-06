@@ -72,6 +72,8 @@ const Skills = () => {
     { name: "JavaScript", level: "Advanced", count: 80 },
     { name: "React", level: "Intermediate", count: 70 },
     { name: "Python", level: "Intermediate", count: 70 },
+     { name: "Java", level: "Expert", count: 80 },
+     { name: "Machine-Learning", level: "Intermediate", count: 75 },
   ];
 
   return (
