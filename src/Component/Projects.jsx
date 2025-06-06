@@ -93,6 +93,7 @@ import React from "react";
 import project1 from "../assets/project-1.png";
 import project2 from "../assets/project-2.png";
 import project3 from "../assets/project-3.png";
+import project4 from "../assets/project-3.png";
 
 const Project = () => {
   const projects = [
@@ -115,6 +116,14 @@ const Project = () => {
         "https://www.figma.com/file/KNV7tzKFl4rgKhWK2hRi0z/Untitled?type=design&node-id=0-1&mode=design&t=CE3vsmnyZWUvZCGL-0",
       live_link:
         "https://www.figma.com/file/KNV7tzKFl4rgKhWK2hRi0z/Untitled?type=design&node-id=0-1&mode=design&t=CE3vsmnyZWUvZCGL-0",
+    },
+       {
+      img: project4,
+      name: "Autism Detection",
+      github_link:
+        "https://github.com/Sakshiv123/Autism-prediction/tree/main",
+      live_link:
+        "https://autism-prediction-mow1.onrender.com/",
     },
   ];
 
