@@ -17,10 +17,7 @@ const About = () => {
                                                   <div className="p-2">
                                                             <div className="text-gray-300 my-3">
                                                                       <p className="text-justify leading-7 w-11/12 mx-auto">
-                                                                              "With over a year of dedicated experience in web development, 
-                                                                                I am driven by a strong passion for building intuitive digital experiences. 
-                                                                                Eager to grow as a full-stack developer, I am also expanding my expertise in machine learning, 
-                                                                                aiming to integrate intelligent solutions into modern web applications."
+                                                                             ""With over a year of dedicated experience in web development, I am driven by a strong passion for building intuitive digital experiences. Eager to grow as a full-stack developer, I am also expanding my expertise in machine learning, aiming to integrate intelligent solutions into modern web applications.""
                                                                       </p>
                                                                       <div className="flex mt-10 items-center gap-7">
                                                                                 {info.map((content) => (
