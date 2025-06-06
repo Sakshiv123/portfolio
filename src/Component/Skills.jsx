@@ -22,6 +22,11 @@ const Skills = () => {
                               level: "Intermediate",
                               count: 70,
                     },
+                    {
+                              logo: "logo-machinelearning",
+                              level: "Intermediate",
+                              count: 70,
+                    },
           ];
           return (
                     <section id="skills" className="py-20 relative">
